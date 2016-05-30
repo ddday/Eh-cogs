@@ -1,0 +1,6 @@
+{
+    "AUTHOR" : "anomaly",
+    "DESCRIPTION" : "use !stream",
+    "DISABLED" : false,
+    "NAME" : "Sets red's twitch streaming status"
+}
