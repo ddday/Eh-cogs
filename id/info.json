@@ -1,0 +1,6 @@
+{
+    "AUTHOR" : "anomaly",
+    "DESCRIPTION" : "use !id",
+    "DISABLED" : false,
+    "NAME" : "Simple cog that tells you your id."
+}
