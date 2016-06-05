@@ -1,6 +1,7 @@
 {
     "AUTHOR" : "anomaly",
-    "DESCRIPTION" : "use !this",
-    "DISABLED" : false,
-    "NAME" : "Is this for that? You decide!"
+    "INSTALL_MSG" : "Enjoy.",
+    "NAME" : "Thisforthat",
+    "SHORT" : "Does this go with that? You decide!",
+    "DESCRIPTION" : "When the command is used it will give you two things, you decide if this goes with that."
 }
