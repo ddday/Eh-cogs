@@ -24,7 +24,7 @@ class Stream:
     @commands.command(pass_context=True)
     @checks.is_owner()
     async def stream(self, ctx, stream=None, *, status=None):
-        """Sets IJ's streaming status
+        """Sets red's streaming status
 
         Leaving this empty will clear it."""
 
