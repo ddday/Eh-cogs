@@ -1,6 +1,7 @@
 {
     "AUTHOR" : "anomaly",
-    "DESCRIPTION" : "use !chuck",
-    "DISABLED" : false,
-    "NAME" : "Random Chuck norris 'facts'"
+    "INSTALL_MSG" : "Enjoy the facts.",
+    "NAME" : "Chucknorris",
+    "SHORT" : "Chuck Norris facts.",
+    "DESCRIPTION" : "When the command is used it will give you random chuck norris 'facts'"
 }
