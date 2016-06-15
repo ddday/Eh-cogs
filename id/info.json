@@ -2,6 +2,6 @@
     "AUTHOR" : "anomaly",
     "INSTALL_MSG" : "Enjoy.",
     "NAME" : "Id",
-    "SHORT" : "Tells you your id.",
-    "DESCRIPTION" : "A cog that tells the invoker their ID."
+    "SHORT" : "Tells you how to get a user ID",
+    "DESCRIPTION" : "A cog that tells the invoker how to get an ID."
 }
